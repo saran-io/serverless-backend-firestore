@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "backend-stg": "backend-ss-demo",
+    "default": "backend-restapi",
+    "staging": "backend-restapi",
+    "backend-ss-demo": "backend-restapi"
+  }
+}
