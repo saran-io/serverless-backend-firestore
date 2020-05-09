@@ -1,4 +1,4 @@
-## google-firestore serverless backen
+## Serverless Backend App 
 This is google firestore sample apps.
 Boilerplate - Serverless REST API Expressjs Firestore Ready-to-use API Project Structure
 
@@ -7,20 +7,23 @@ A ready-to-use boilerplate for REST API Development with Node.js, Express, and F
 
 ##  Table of Contents:
 
-| S.No |         Topic          |                                                             Description |
-| :--- | :--------------------: | ----------------------------------------------------------------------: |
-| 1    |    Getting Started     |                                 This topic covers the high level basics |
-| 2    |       Tech Stack       |                                         Tech stack used in this project |
-| 3    | Software Requirements  |                                 This topic covers the high level basics |
-| 4    |        Features        |                                 This topic covers the high level basics |
-| 5    |  Installation & Setup  |          This topic explains the installation and setup steps in detail |
-| 6    |   Project Structure    |                        Explains the flow of the project on a high level |
-| 7    |        Testing         |                                 This topic covers the high level basics |
-| 8    |          Lint          |                                 This topic covers the high level basics |
-| 9    | Bugs and Improvements  |                                 This topic covers the high level basics |
-| 10   | Development Error Logs | This topic listdown the eror logs captured during the development phase |
-| 11   |        License         |                        This topic covers the licensing part of the repo |
-| 11   |        Support         |                                           How to get help for this repo |
+| S.No |               Topic                |                                                                        Description |
+| :--- | :--------------------------------: | ---------------------------------------------------------------------------------: |
+| 1    |          Getting Started           |                                            This topic covers the high level basics |
+| 2    |             Tech Stack             |                                                    Tech stack used in this project |
+| 3    | Software Requirements/Architecture |                     This topic covers the high level requirements and architecture |
+| 4    |              Features              |                                                      Features for this project/app |
+| 5    |        Installation & Setup        |                     This topic explains the installation and setup steps in detail |
+| 6    |         Project Structure          |                                   Explains the flow of the project on a high level |
+| 7    |              Testing               |                                       Explaines the testing strategy involved here |
+| 8    |                Lint                |                                                           Lint rules if applicable |
+| 9    |       Bugs and Improvements        |                                                         Open bugs and improvements |
+| 10   |           Contributions            |                                              Guidelines to contribute to this repo |
+| 11   |              Roadmap               |                                 Provide update on the roadmap for this project/app |
+| 12   |       Development Error Logs       |            This topic listdown the eror logs captured during the development phase |
+| 13   |              License               |                                   This topic covers the licensing part of the repo |
+| 14   |              Support               |                                                      How to get help for this repo |
+| 15   |          Acknowledgements          | This section will list the acknowledgements and people who helped me to build this |
 
 
 
@@ -55,7 +58,7 @@ npm run lint
 You can set custom rules for eslint in `.eslintrc.json` file, Added at project root.
 
 ## Bugs or improvements
-Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
+Every project needs improvements, Feel free to report any bugs or improvements. The doors are always open for PR's (Pull Requests)
 
 ## License
 This project is open-sourced software licensed under the MIT License. See the LICENSE file for more information. If you have any more questions about
@@ -63,6 +66,7 @@ open source software licenses please visit https://opensource.org/licenses.
 
 ## Support
 
-LinkedinProfile: https://www.linkedin.com/in/saranraj-santhanam/
-Github: https://github.com/saran-io
-Twitter: https://twitter.com/saran_io
+-LinkedinProfile: https://www.linkedin.com/in/saranraj-santhanam/
+-Github: https://github.com/saran-io
+-Twitter: https://twitter.com/saran_io
+-Project Link: 
