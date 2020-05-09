@@ -20,7 +20,7 @@ A ready-to-use boilerplate for REST API Development with Node.js, Express, and F
 | 9    | Bugs and Improvements  |                                 This topic covers the high level basics |
 | 10   | Development Error Logs | This topic listdown the eror logs captured during the development phase |
 | 11   |        License         |                        This topic covers the licensing part of the repo |
-
+| 11   |        Support         |                                           How to get help for this repo |
 
 
 
@@ -60,3 +60,9 @@ Every project needs improvements, Feel free to report any bugs or improvements. 
 ## License
 This project is open-sourced software licensed under the MIT License. See the LICENSE file for more information. If you have any more questions about
 open source software licenses please visit https://opensource.org/licenses.     
+
+## Support
+
+LinkedinProfile: https://www.linkedin.com/in/saranraj-santhanam/
+Github: https://github.com/saran-io
+Twitter: https://twitter.com/saran_io
