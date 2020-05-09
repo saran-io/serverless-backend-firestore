@@ -57,6 +57,16 @@ npm run lint
 ```
 You can set custom rules for eslint in `.eslintrc.json` file, Added at project root.
 
+## Contributions
+
+Tech world thrives because of open source community and i advocate people to contribute more towards open source. Here are some ways to contrinbute to this repo.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
 ## Bugs or improvements
 Every project needs improvements, Feel free to report any bugs or improvements. The doors are always open for PR's (Pull Requests)
 
@@ -65,8 +75,7 @@ This project is open-sourced software licensed under the MIT License. See the LI
 open source software licenses please visit https://opensource.org/licenses.     
 
 ## Support
-
--LinkedinProfile: https://www.linkedin.com/in/saranraj-santhanam/
--Github: https://github.com/saran-io
--Twitter: https://twitter.com/saran_io
+-LinkedinProfile:[saranraj-santhanam] https://www.linkedin.com/in/saranraj-santhanam/
+-Github:[saran-io] https://github.com/saran-io
+-Twitter: [@saran_io] (https://twitter.com/saran_io)
 -Project Link: 
