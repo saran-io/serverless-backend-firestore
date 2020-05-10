@@ -7,23 +7,23 @@ A ready-to-use boilerplate for REST API Development with Node.js, Express, and F
 
 ##  Table of Contents:
 
-| S.No |         Topic          |                                                                        Description |
-| :--- | :--------------------: | ---------------------------------------------------------------------------------: |
-| 1    |    Getting Started     |                                            This topic covers the high level basics |
-| 2    |       Tech Stack       |                                                    Tech stack used in this project |
-| 3    |      Architecture      |                     This topic covers the high level requirements and architecture |
-| 4    |        Features        |                                                      Features for this project/app |
-| 5    |  Installation & Setup  |                     This topic explains the installation and setup steps in detail |
-| 6    |   Project Structure    |                                   Explains the flow of the project on a high level |
-| 7    |        Testing         |                                       Explaines the testing strategy involved here |
-| 8    |          Lint          |                                                           Lint rules if applicable |
-| 9    | Bugs and Improvements  |                                                         Open bugs and improvements |
-| 10   |     Contributions      |                                              Guidelines to contribute to this repo |
-| 11   |        Roadmap         |                                 Provide update on the roadmap for this project/app |
-| 12   | Development Error Logs |            This topic listdown the eror logs captured during the development phase |
-| 13   |        License         |                                   This topic covers the licensing part of the repo |
-| 14   |        Support         |                                                      How to get help for this repo |
-| 15   |    Acknowledgements    | This section will list the acknowledgements and people who helped me to build this |
+| S.No |                              Topic                              |                                                                        Description |
+| :--- | :-------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
+| 1    |               [Getting Started](#getting-started)               |                                            This topic covers the high level basics |
+| 2    |                 [Tech Stack](#tech-stack-used)                  |                                                    Tech stack used in this project |
+| 3    |        [Architecture](#architectural-diagram-high-level)        |                     This topic covers the high level requirements and architecture |
+| 4    |                      [Features](#features)                      |                                                      Features for this project/app |
+| 5    |          [Installation & Setup](#installation--setup)           |                     This topic explains the installation and setup steps in detail |
+| 6    |             [Project Structure](#project-structure)             |                                   Explains the flow of the project on a high level |
+| 7    |                        [Testing](#tests)                        |                                       Explaines the testing strategy involved here |
+| 8    |                          [Lint](#lint)                          |                                                           Lint rules if applicable |
+| 9    |         [Bugs and Improvements](#bugs-or-improvements)          |                                                         Open bugs and improvements |
+| 10   |                 [Contributions](#contributions)                 |                                              Guidelines to contribute to this repo |
+| 11   |                       [Roadmap](#roadmap)                       |                                 Provide update on the roadmap for this project/app |
+| 12   | [Development Error Logs](#development-error-logs-for-reference) |            This topic listdown the eror logs captured during the development phase |
+| 13   |                       [License](#license)                       |                                   This topic covers the licensing part of the repo |
+| 14   |                       [Support](#support)                       |                                                      How to get help for this repo |
+| 15   |              [Acknowledgements](#acknowledgements)              | This section will list the acknowledgements and people who helped me to build this |
 
 
 
